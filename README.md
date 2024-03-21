@@ -1,5 +1,10 @@
 This repository contains code for detecting anemia using conjunctiva images. Anemia is a common blood disorder that affects millions of people worldwide. One of the key indicators of anemia is the appearance of the conjunctiva, the thin, transparent layer covering the white part of the eye. This project aims to develop a computer vision-based system to automatically detect anemia using images of the conjunctiva.
-Key Components:
+
+
+
+
+                                                                              Key Components:
+
 Dataset: The dataset comprises conjunctiva images sourced from various repositories, encompassing both healthy and anemic individuals. These images are meticulously labeled and categorized into training, validation, and testing sets to facilitate model development and evaluation.
 
 Preprocessing: A preprocessing pipeline is employed to standardize the images, including resizing, normalization, and augmentation techniques to enhance the robustness of the model.
